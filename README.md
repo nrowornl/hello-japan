@@ -1,3 +1,4 @@
 # hello-japan
-リポジトリGITだぜ
-push・pull、君に決めた！
+リポジトリが勝負を仕掛けてきた。
+push！君に決めた！
+pullでGITだぜ！
